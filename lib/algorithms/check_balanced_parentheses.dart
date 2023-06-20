@@ -1,4 +1,4 @@
-import 'package:dart_algorithms/data_structures/stack.dart';
+import 'package:dart_algorithms/data_structures/stack/stack.dart';
 
 /*
 Check for balanced parentheses. Given a string, check if there are ( and ) characters,
